@@ -1,4 +1,5 @@
 export const menuItems = [
+ modulo-admin-usarios
     {
       title: 'Dashboard',
       icon: 'mdi-view-dashboard',
@@ -25,4 +26,3 @@ export const menuItems = [
       to: '/settings',
     },
   ]
-  
